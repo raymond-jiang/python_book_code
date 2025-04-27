@@ -1,2 +1,0 @@
-class KeyError(Exception):
-    pass
